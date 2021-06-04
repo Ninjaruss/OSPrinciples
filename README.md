@@ -8,3 +8,4 @@ A compilation of C programs for CSC415 Operating System Priniciples Fall 2020.
 - Creating a shell in command line
 - Implementation of non in-built data structures like Hash Table in C
 - Exposure to device driver development in Linux
+- Compiling using Makefile
